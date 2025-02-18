@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,chumlea,Chumlea,John
 employee, shodell, Shodell, Jeremy
